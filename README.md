@@ -4,20 +4,22 @@ SIH
 Create a requirements.txt file to manage Python dependencies:
 Enter the content:
 
-"""Flask
+```
+Flask
 requests
 opencv-python
 ffmpeg-python
-"""
+```
 # Install the dependencies using:
-
-Copy code
+```
 pip install -r requirements.txt
+```
 
 # Run the Prototype
 Run the Flask App:
+```
    python app.py
-
+```
 ## Installation
 
 1. Clone the repository:
